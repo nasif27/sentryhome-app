@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "type": "camera",
+        "name": "Front Door Camera",
+        "status": 1,
+        "alert": 1,
+        "imageURL": "/frontdoor-cam.jpg"
+    },
+
+    {
+        "id": 2,
+        "type": "sensor",
+        "name": "Garage Motion Sensor",
+        "status": 1,
+        "alert": 1,
+        "imageURL": "/sensor.png"
+    },
+
+    {
+        "id": 3,
+        "type": "switch",
+        "name": "Living Room Lamp",
+        "status": 0,
+        "alert": 0,
+        "imageURL": "/downlight.png"
+    },
+
+    {
+        "id": 4,
+        "type": "camera",
+        "name": "Backyard Camera",
+        "status": 1,
+        "alert": 0,
+        "imageURL": "/backyard-cam.avif"
+    },
+
+    {
+        "id": 5,
+        "type": "camera",
+        "name": "Kitchen Camera",
+        "status": 0,
+        "alert": 0,
+        "imageURL": "/kitchen-cam.webp"
+    },
+
+    {
+        "id": 6,
+        "type": "switch",
+        "name": "Bedroom Lamp",
+        "status": 1,
+        "alert": 0,
+        "imageURL": "/downlight.png"
+    },
+
+    {
+        "id": 7,
+        "type": "sensor",
+        "name": "Smoke Detection Sensor",
+        "status": 0,
+        "alert": 0,
+        "imageURL": "/sensor.png"
+    },
+
+    {
+        "id": 8,
+        "type": "switch",
+        "name": "Water Pump",
+        "status": 1,
+        "alert": 0,
+        "imageURL": "/water-pump-fill.png"
+    }
+]
